@@ -1,2 +1,2 @@
 # ItsQuasi's Web Projects
-Every web projects made by ItsQuasi.
+Welcome to **ItsQuasi's** collection of small web projects.
